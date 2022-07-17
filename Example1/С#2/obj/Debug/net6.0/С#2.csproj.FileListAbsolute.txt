@@ -13,3 +13,18 @@ C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекц�
 C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Лекция 2 (16.07.22)\С#2\obj\Debug\net6.0\С#2.pdb
 C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Лекция 2 (16.07.22)\С#2\obj\Debug\net6.0\С#2.genruntimeconfig.cache
 C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Лекция 2 (16.07.22)\С#2\obj\Debug\net6.0\ref\С#2.dll
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\bin\Debug\net6.0\С#2.exe
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\bin\Debug\net6.0\С#2.deps.json
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\bin\Debug\net6.0\С#2.runtimeconfig.json
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\bin\Debug\net6.0\С#2.dll
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\bin\Debug\net6.0\С#2.pdb
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.csproj.AssemblyReference.cache
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.AssemblyInfoInputs.cache
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.AssemblyInfo.cs
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.csproj.CoreCompileInputs.cache
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.dll
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\refint\С#2.dll
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.pdb
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\С#2.genruntimeconfig.cache
+C:\Users\п\Desktop\Учеба\Знакомство с языком C#\Лекции\Lections\Example1\С#2\obj\Debug\net6.0\ref\С#2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Лекция 2 (16.07.22)\\С#2\\С#2.csproj": {}
+    "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Lections\\Example1\\С#2\\С#2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Лекция 2 (16.07.22)\\С#2\\С#2.csproj": {
+    "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Lections\\Example1\\С#2\\С#2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Лекция 2 (16.07.22)\\С#2\\С#2.csproj",
+        "projectUniqueName": "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Lections\\Example1\\С#2\\С#2.csproj",
         "projectName": "С#2",
-        "projectPath": "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Лекция 2 (16.07.22)\\С#2\\С#2.csproj",
+        "projectPath": "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Lections\\Example1\\С#2\\С#2.csproj",
         "packagesPath": "C:\\Users\\п\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Лекция 2 (16.07.22)\\С#2\\obj\\",
+        "outputPath": "C:\\Users\\п\\Desktop\\Учеба\\Знакомство с языком C#\\Лекции\\Lections\\Example1\\С#2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\п\\AppData\\Roaming\\NuGet\\NuGet.Config"
