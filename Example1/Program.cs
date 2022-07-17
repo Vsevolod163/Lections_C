@@ -1,4 +1,4 @@
-﻿/* Нахождение максимального числа
+﻿// Нахождение максимального числа
 int Max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
@@ -40,7 +40,7 @@ int max = Max(
 Console.WriteLine(max);
 
 
-// Task 2 Массивы
+/* Task 2 Массивы
 
 int[] array = {1, 2, 3, 4, 8, 5, 6, 7, 8};
 
